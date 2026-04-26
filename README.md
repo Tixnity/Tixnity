@@ -1,4 +1,4 @@
-# 💫 About Me:
+![Banner](https://i.pinimg.com/webp70/1200x/3b/c4/09/3bc409491176b637edeb207a1d453b23.webp)
 i'm a beginner programmer. currently learning C# and my main is python
 
 
