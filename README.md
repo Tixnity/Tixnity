@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/webp70/1200x/3b/c4/09/3bc409491176b637edeb207a1d453b23.webp)
+![Banner](https://i.pinimg.com/webp70/736x/c7/52/b5/c752b5714619be0258fadceed2c1e3e8.webp)
 # 💫 About Me:
 i'm a beginner programmer. currently learning C# and my main is python
 
